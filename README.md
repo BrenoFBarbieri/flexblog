@@ -2,4 +2,4 @@
 Project developed for flexbox studies
 
 # Link to access the page
-https://brenofbarbieri.github.io/flexBlog.github.io/
+https://brenofbarbieri.github.io/flexblog/
